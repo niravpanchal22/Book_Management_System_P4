@@ -1,0 +1,29 @@
+{
+  "name": "book_management_system",
+  "version": "1.0.0",
+  "description": "Book_Manangement_System_P4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niravpanchal22/Book_Management_system_P4.git"
+  },
+  "keywords": [
+    "Nirav",
+    "Panchal"
+  ],
+  "author": "Nirav Panchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niravpanchal22/Book_Management_system_P4/issues"
+  },
+  "homepage": "https://github.com/niravpanchal22/Book_Management_system_P4#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
