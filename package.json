@@ -1,19 +1,17 @@
 {
-  "name": "book_management_system",
+  "name": "book_management_system_p4",
   "version": "1.0.0",
-  "description": "Book_Manangement_System_P4",
+  "description": "Book Management server build with node.js & express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/niravpanchal22/Book_Management_system_P4.git"
   },
-  "keywords": [
-    "Nirav",
-    "Panchal"
-  ],
   "author": "Nirav Panchal",
   "license": "ISC",
   "bugs": {
